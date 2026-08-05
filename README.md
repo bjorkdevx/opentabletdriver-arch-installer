@@ -21,7 +21,7 @@ Quick Start
     Clone the repository:
     Bash
 
-    git clone https://github.com/bjorkdevx/opentabletdriver-arch-installer.git
+    git clone [https://github.com/bjorkdevx/opentabletdriver-arch-installer.git](https://github.com/bjorkdevx/opentabletdriver-arch-installer.git)
     cd opentabletdriver-arch-installer
 
     Run the installer:
