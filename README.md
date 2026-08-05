@@ -19,13 +19,11 @@ sudo pacman -S --needed base-devel git github-cli python dotnet-sdk dotnet-runti
 Quick Start
 
     Clone the repository:
-    Bash
-
-    git clone [https://github.com/bjorkdevx/opentabletdriver-arch-installer.git](https://github.com/bjorkdevx/opentabletdriver-arch-installer.git)
+    
+    git clone https://github.com/bjorkdevx/opentabletdriver-arch-installer.git
     cd opentabletdriver-arch-installer
 
     Run the installer:
-    Bash
 
     python3 main.py
 
